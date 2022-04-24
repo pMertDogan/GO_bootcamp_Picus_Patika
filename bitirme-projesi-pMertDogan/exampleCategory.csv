@@ -1,0 +1,5 @@
+"ID ",CreatedAt,UpdatedAt,DeletedAt,CategoryName,CategoryDescription,CategoryIsActive
+"0",2022-04-01 23:56:45.390221+03,2022-04-01 23:56:45.390221+03,NULL,Phone,Android and Apple phones,true
+"1",2022-04-01 23:56:45.390221+03,2022-04-01 23:56:45.390221+03,NULL,TV,Televisions from top brands,true
+"2",2022-04-01 23:56:45.390221+03,2022-04-01 23:56:45.390221+03,NULL,Camera,Camera with 8K & 4K support,true
+"3",2022-04-01 23:56:45.390221+03,2022-04-01 23:56:45.390221+03,NULL,Video Game Consoles,Xbox Playstation and more,true

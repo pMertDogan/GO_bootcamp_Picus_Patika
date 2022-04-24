@@ -1,0 +1,13 @@
+sku,productName,description,color,price,stockCount,categoryID,storeID
+xm1,Xiaomi Mi 6,Cellphone by Xiaomi,black,2200,763,1,1
+xm2,Xiaomi Mi 7,Cellphone by Xiaomi,black,2400,1000,1,1
+xm3,Xiaomi Mi 8,Cellphone by Xiaomi,black,2600,1237,1,1
+xm4,Xiaomi Mi 9,Cellphone by Xiaomi,black,2800,1474,1,1
+xm5,Xiaomi Mi 10,Cellphone by Xiaomi,black,3000,1711,1,1
+xm6,Xiaomi Mi 11,Cellphone by Xiaomi,black,3200,1948,1,1
+xm1y,Xiaomi Mi 6,Cellphone by Xiaomi,yellow,2200,3000,1,1
+xm2y,Xiaomi Mi 7,Cellphone by Xiaomi,yellow,2400,3001,1,1
+xm3y,Xiaomi Mi 8,Cellphone by Xiaomi,yellow,2600,3002,1,1
+xm4y,Xiaomi Mi 9,Cellphone by Xiaomi,yellow,2800,3003,1,1
+xm5y,Xiaomi Mi 10,Cellphone by Xiaomi,yellow,3000,3004,1,1
+xm6y,Xiaomi Mi 11,Cellphone by Xiaomi,yellow,3200,3005,1,1

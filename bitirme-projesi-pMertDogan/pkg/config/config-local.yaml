@@ -1,0 +1,56 @@
+# #Change it with yout own information !
+# #POSTGRESS CONNECTION 
+# DB_HOST= localhost  
+# DB_PORT= 5432
+# DB_USERNAME= postgres
+# DB_NAME= basketStore
+# DB_PASSWORD= 123456
+
+DBConfig:
+  Host: localhost
+  Port: 5432
+  Dbname: basketStore
+  Username: postgres
+  Password: 123456
+
+
+ServerConfig:
+  AppVersion: 1.0.0
+  Mode: Development
+  RoutePrefix: /api/v1/basketStore
+  Debug: false
+  Port: 8080
+  TimeoutSecs: 60
+  ReadTimeoutSecs: 60
+  WriteTimeoutSecs: 12
+
+JWTConfig:
+  # SessionTime: 3600
+  SecretKey: dummySecretKey
+  RefreshTokenLifeMinute : 1440
+  AccesTokenLifeMinute : 100
+
+# Admin account is created if its not exist,please update it with your own information before first start
+Admin:
+  Password: admin
+  Email: admin@localhost.com
+
+# StoreData
+# Name string
+# Description string
+# Phone string
+# Email string
+# Address string
+
+StoreData:
+  Name: Mert's Store
+  Description: Mert's Store
+  Phone: +905555555555
+  Email: help@localhost.com
+  Address: Turkey
+
+Logger:
+  Development: true
+  Encoding: json
+  Level: info
+
